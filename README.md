@@ -11,9 +11,8 @@ Pada modul ini, dilakukan instalasi dan konfigurasi dasar CodeIgniter 4 agar dap
 
 > **Screenshot Konfigurasi Environment:**
 > ![Screenshot konfigurasi](<img width="1366" height="768" alt="Screenshot at 2026-04-15 11-21-35" src="https://github.com/user-attachments/assets/a3b4b023-4032-47e8-b203-378513977f5b" />
-)
 <img width="1366" height="768" alt="Screenshot at 2026-04-15 11-22-31" src="https://github.com/user-attachments/assets/53c6add2-06b3-4ae9-9d7d-e40c3f56e308" />
-
+)
 ---
 
 ## Modul 2: Layout dan Komponen (View Cell)
